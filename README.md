@@ -8,7 +8,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://nipa-farzana.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
